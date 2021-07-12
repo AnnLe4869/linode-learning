@@ -1,3 +1,13 @@
 {
-  "cSpell.words": ["mkdir"]
+  "cSpell.words": [
+    "addgroup",
+    "adduser",
+    "deluser",
+    "distros",
+    "gpasswd",
+    "mkdir",
+    "passwrd",
+    "userdel",
+    "usermod"
+  ]
 }
