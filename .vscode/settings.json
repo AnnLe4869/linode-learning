@@ -11,8 +11,10 @@
     "htop",
     "killall",
     "mkdir",
+    "netstat",
     "passwrd",
     "userdel",
-    "usermod"
+    "usermod",
+    "wlan"
   ]
 }
