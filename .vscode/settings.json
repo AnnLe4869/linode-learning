@@ -1,11 +1,15 @@
 {
   "cSpell.words": [
+    "SIGKILL",
+    "SIGTERM",
     "addgroup",
     "adduser",
     "chmod",
     "deluser",
     "distros",
     "gpasswd",
+    "htop",
+    "killall",
     "mkdir",
     "passwrd",
     "userdel",
