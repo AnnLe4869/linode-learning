@@ -2,6 +2,7 @@
   "cSpell.words": [
     "SIGKILL",
     "SIGTERM",
+    "Zilla",
     "addgroup",
     "adduser",
     "chmod",
@@ -13,6 +14,7 @@
     "mkdir",
     "netstat",
     "passwrd",
+    "puttygen",
     "userdel",
     "usermod",
     "wlan"
