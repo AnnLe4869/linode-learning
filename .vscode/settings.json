@@ -8,6 +8,7 @@
     "chmod",
     "deluser",
     "distros",
+    "elif",
     "gpasswd",
     "htop",
     "killall",
@@ -16,6 +17,7 @@
     "passwrd",
     "printenv",
     "puttygen",
+    "pwsh",
     "userdel",
     "usermod",
     "wlan"
