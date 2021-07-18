@@ -17,6 +17,7 @@
     "netstat",
     "passwrd",
     "printenv",
+    "publickey",
     "puttygen",
     "pwsh",
     "userdel",
